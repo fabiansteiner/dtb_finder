@@ -4,7 +4,7 @@ A [FACT](https://github.com/fkie-cad/FACT_core) analysis plug-in for extracting 
 
 ### Add Plugin to your project:
 ```sh
-$ git submodule add https://gitlab.sba-research.org/autohoney-i-iot/processor-database/dtb_finder.git src/plugins/analysis/dtb_finder
+$ git submodule add https://github.com/fabiansteiner/dtb_finder.git src/plugins/analysis/dtb_finder
 $ ./src/install.py -B
 ``` 
 
